@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(void)
+{
+    int i, j;
+    float x, y;
+
+    scanf("%d%f%d", &i, &x, &j);
+    printf("i: %d\n", i);
+    printf("x: %f\n", x);
+    printf("y: %d\n", j);
+}
